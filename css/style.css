@@ -1,0 +1,10 @@
+.center {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    display: table-cell;
+    padding: 40px;
+    scroll-margin: 0;
+}
