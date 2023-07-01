@@ -1,5 +1,6 @@
 # what the hell is projectroyal???
-creating a website for personal gain in experience
--credits to 3kh0 for games archive
--credits to darkn for teaching us tips
+friends creating a website for fun
+## credits
+- thanks to 3kh0 for games archive
+- thanks to notdarkn for tips
 <print poopoo>
