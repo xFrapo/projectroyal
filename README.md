@@ -1,4 +1,3 @@
-# projectroyal
-test website
-im bouta go crazy on this
+# what the hell is projectroyal???
+creating a website for personal gain in experience
 <print poopoo>
