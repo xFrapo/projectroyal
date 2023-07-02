@@ -23,13 +23,12 @@ h2 {
 }
 
 .center {
-    position: fixed;
+    position: absolute; /* you could also use fixed */
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
     text-align: center;
     display: table-cell;
     padding: 40px;
-    scroll-margin: 0;
     /* this is the code for centering text horizontially & vertically */
 }
