@@ -9,3 +9,7 @@
     scroll-margin: 0;
     /* this is the code for centering text horizontially & vertically */
 }
+
+a {
+    font-size: 18px;
+}
