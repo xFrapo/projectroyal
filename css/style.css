@@ -4,11 +4,12 @@ body {
 
 a {
     font-size: 18px;
+    color: rgb(188, 59, 243);
 }
 
 a[href] {
     font-size: 20px;
-    color: #2e8ff9;
+    color: #3d00af;
 }
 
 h1 {
@@ -19,7 +20,7 @@ h1 {
 }
 
 h2 {
-    color:lavender;
+    color: darkviolet;
 }
 
 .center {
