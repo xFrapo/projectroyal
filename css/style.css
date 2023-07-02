@@ -1,3 +1,16 @@
+body {
+    background-color: #000000;
+}
+
+a {
+    font-size: 18px;
+}
+
+a[href] {
+    font-size: 20px;
+    color: #2e8ff9;
+}
+
 .center {
     position: fixed;
     top: 50%;
@@ -8,8 +21,4 @@
     padding: 40px;
     scroll-margin: 0;
     /* this is the code for centering text horizontially & vertically */
-}
-
-a {
-    font-size: 18px;
 }

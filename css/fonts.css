@@ -1,0 +1,12 @@
+@font-face {
+  font-family: "SF-Reg";
+  src: url("../fonts/sf-pro-regular.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+h1,
+a {
+  font-family: "SF-Reg", sans-serif;
+}
