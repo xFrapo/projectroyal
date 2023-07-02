@@ -11,6 +11,17 @@ a[href] {
     color: #2e8ff9;
 }
 
+h1 {
+    font-size: 12em;
+    color: #080012;
+    padding: 0px;
+    margin: -30px;
+}
+
+h2 {
+    color:lavender;
+}
+
 .center {
     position: fixed;
     top: 50%;

@@ -6,7 +6,17 @@
   font-display: swap;
 }
 
-h1,
+@font-face {
+  font-family: "Montserrat-SB";
+  src: url("../fonts-montserrat-semibold.ttf");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+h1 {
+  font-family: "Montserrat-SB",sans-serif;
+}
+h2,
 a {
   font-family: "SF-Reg", sans-serif;
 }
