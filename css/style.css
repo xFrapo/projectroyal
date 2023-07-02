@@ -7,4 +7,14 @@
     display: table-cell;
     padding: 40px;
     scroll-margin: 0;
+    /* this is the code for centering text horizontially & vertically */
+}
+
+body {
+    background-image: url('images/ROYAL.png');
+    background-size: cover;
+}
+
+a {
+    font-size: 18px;
 }
