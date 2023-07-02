@@ -2,11 +2,6 @@ body {
     background-color: #000000;
 }
 
-a {
-    font-size: 18px;
-    color: rgb(188, 59, 243);
-}
-
 a[href] {
     font-size: 20px;
     color: #3d00af;
