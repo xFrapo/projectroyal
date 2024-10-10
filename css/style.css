@@ -18,6 +18,12 @@ h2 {
     color: darkviolet;
 }
 
+h3 {
+    font-family:Montserrat-SB;
+    font-size:x-small;
+    color:darkviolet
+}
+
 .center {
     position: absolute; /* you could also use fixed */
     top: 50%;
