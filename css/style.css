@@ -4,24 +4,24 @@ body {
 
 a[href] {
     font-size: 20px;
-    color: #5e2eb6;
+    color: #FFAF42;
 }
 
 h1 {
     font-size: 12em;
-    color: #1f063f;
+    color: #E7840B;
     padding: 0px;
     margin: -30px;
 }
 
 h2 {
-    color: darkviolet;
+    color: orange;
 }
 
 h3 {
     font-family:Montserrat-SB;
     font-size:x-small;
-    color:darkviolet
+    color:orange
 }
 
 .center {
