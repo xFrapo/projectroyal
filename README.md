@@ -5,5 +5,5 @@ friends creating a website for fun
 - thanks to whoever owns melvin.cluster.ws for inspiration
 - thanks to notdarkn for tips
 ### development
-we're back baby
+set
 <print poopoo>
