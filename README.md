@@ -1,9 +1,8 @@
-# what the hell is projectroyal???
-friends creating a website for fun
+# what is projectroyal???
+a group of guys, mainly xfrapo, creating a website
 ## credits
-- thanks to 3kh0 for games archive and inspiration
+- thanks to 3kh0 for archive and inspiration
 - thanks to whoever owns melvin.cluster.ws for inspiration
-- thanks to notdarkn for tips
 ### development
-set
+yeah
 <print poopoo>
