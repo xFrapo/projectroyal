@@ -9,8 +9,14 @@
     <script>
         window.onload = function() { // resize flash game to fit window
             var game = document.getElementById("game");
+            var width = window.innerWidth;
             var height = window.innerHeight;
+            game.style.width = width + "px";
             game.style.height = height + "px";
+            config: {
+                forceAlign = true
+                allowFullscreen = true
+            }
         }
     </script>
     <style>
