@@ -13,6 +13,35 @@
             var height = window.innerHeight;
             game.style.width = width + "px";
             game.style.height = height + "px";
+        };
+        window.RufflePlayer.config = {
+    // Options affecting the whole page
+    "publicPath": undefined,
+    "polyfills": true,
+
+    // Options affecting files only
+    "autoplay": "on",
+    "unmuteOverlay": "hidden",
+    "wmode": "window",
+    "letterbox": "on",
+    "warnOnUnsupportedContent": warn,
+    "contextMenu": true,
+    "showSwfDownload": false,
+    "upgradeToHttps": window.location.protocol === "https:",
+    "maxExecutionDuration": {"secs": 15, "nanos": 0},
+    "logLevel": "error",
+    "base": basePath,
+    "menu": true,
+    "salign": "center",
+    "openUrlMode": openUrlMode,
+    "scale": "showAll",
+    "quality": "best",
+    "preloader": true,
+    "backgroundColor": "#000000",
+    "allowNetworking": "all",
+    "allowScriptAccess": true,
+    "forceAlign": "true",
+    "forceScale": "true"
         }
     </script>
     <style>
