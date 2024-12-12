@@ -1,5 +1,10 @@
 body {
     background-color: #000000;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 a[href] {
@@ -7,12 +12,31 @@ a[href] {
     color: #ff2e2e;
 }
 
-a[href2] {
-    font-size: 20px;
+.grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 7px;
+    margin-top: 20px;
+  }
+
+  .grid a {
+    text-decoration: underline;
+    color: red;
+    text-align: center;
+    display: block;
+  }
+
+  .grid a.green {
     color: #2eff74;
-}
+  }
+
+  footer {
+    margin-top: 40px;
+    text-align: center;
+  }
 
 h1 {
+    margin-top: 50px;
     font-size: 12em;
     color: #b11414;
     padding: 0px;
@@ -30,12 +54,8 @@ h3 {
 }
 
 .center {
-    position: absolute; /* you could also use fixed */
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
     text-align: center;
-    display: table-cell;
-    padding: 40px;
-    /* this is the code for centering text horizontially & vertically */
+    max-width: 1200px;
+    margin: auto;
+    padding: 20px;
 }
