@@ -5,11 +5,12 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
+    background: linear-gradient(rgb(15, 0, 61), #352475de);
 }
 
 a[href] {
     font-size: 20px;
-    color: #ff2e2e;
+    color: #f6b3e5;
 }
 
 .grid {
@@ -21,13 +22,13 @@ a[href] {
 
   .grid a {
     text-decoration: underline;
-    color: red;
+    color: #f6b3e5;
     text-align: center;
     display: block;
   }
 
   .grid a.green {
-    color: #2eff74;
+    color: #f6b3e5;
   }
 
   footer {
@@ -36,21 +37,23 @@ a[href] {
   }
 
 h1 {
-    margin-top: 50px;
+    margin-top: 100px;
     font-size: 12em;
-    color: #b11414;
+    color: #7232f2
+
+;
     padding: 0px;
     margin: -30px;
 }
 
 h2 {
-    color: #2eff74;
+    color: #c876ff;
 }
 
 h3 {
     font-family:Montserrat-SB;
     font-size:x-small;
-    color:#2eff74
+    color:#c876ff
 }
 
 .center {
@@ -58,4 +61,18 @@ h3 {
     max-width: 1200px;
     margin: auto;
     padding: 20px;
+}
+
+*::-webkit-scrollbar {
+  width: 16px;
+}
+
+*::-webkit-scrollbar-track {
+  background: #2b1d3e;
+}
+
+*::-webkit-scrollbar-thumb {
+  background-color: #523c7c;
+  border-radius: 2px;
+  border: 3px solid #4e4072;
 }
